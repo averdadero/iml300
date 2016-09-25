@@ -1,6 +1,60 @@
 
 .blurb {
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+    line-height: 22px;
+    text-decoration: none;
+
+}
+
+.title {
     text-align: center;
-    margin: 10%;
-    background-color: mistyrose;
+    padding: 0px 0px 0px 0px;
+    font-size: 600%
+
+    
+    
+}
+
+   body {background-color: hsl(35, 40%, 97%);
+       font-family: "verdana";
+       }
+
+
+
+
+
+h2 {list-style-type: none;
+    text-align: center;
+    padding-bottom: 1%;
+    
+}
+
+p {
+    text-decoration: none;
+}
+
+
+h4 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    padding: 0px 50px
+}
+
+
+
+.image {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%
+
+}
+
+h3 {
+    padding-top: 20px;
 }
